@@ -6,7 +6,7 @@ export default class GameSaving {
             id: data.userInfo.id,
             name: data.userInfo.name,
             level: data.userInfo.level,
-            points: data.userInfo.point,
+            points: data.userInfo.points,
         };
     }
 }
